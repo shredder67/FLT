@@ -1,0 +1,9 @@
+7
+SAE
+S→A⊥
+A→E
+A→+E
+A→A+E
+A→A*E
+E→id
+E→(A)
